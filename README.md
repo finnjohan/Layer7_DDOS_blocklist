@@ -16,7 +16,7 @@ sudo ipset create blocked_ips hash:ip maxelem 5000000
 
 while read -r ip; do if [[ -z "$ip" || ! "$ip" =~ ^[0-9]+\.[0-9]+\.[0-9]+\.[0-9]+$ ]]; then echo "[INFO] Skipping invalid IP: '$ip'"; continue; fi; sudo ipset add blocked_ips "$ip" -exist; done < full.txt
 
-#create the rule -I creates the rule at the top, -A at bottom, we want at top before ufw and other rules.
+#create the rule -I creates the rule at the top in iptables
 
 #Dont do this if you already set up the service, then it is already there. check with iptables -L INPUT -v -n before  
 iptables -I INPUT 1 -m set --match-set blocked_ips src -j DROP  
