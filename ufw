@@ -729,7 +729,8 @@ ufw insert 1 deny from 47.82.11.11
 ufw insert 1 deny from 64.124.8.229
 ufw insert 1 deny from 47.82.11.171
 ufw insert 1 deny from 47.82.11.108
-ufw insert 1 deny from 4703.05.23 PM CEST 2025ufw insert 1 deny from 47.82.11.199
+ufw insert 1 deny from 4703.05.23 
+ufw insert 1 deny from 47.82.11.199
 ufw insert 1 deny from 47.82.11.92
 ufw insert 1 deny from 47.82.11.176
 ufw insert 1 deny from 52.255.111.112
