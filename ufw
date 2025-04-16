@@ -1022,9 +1022,9 @@ ufw insert 1 deny from 20.14.159.242
 ufw insert 1 deny from 20.171.207.192
 ufw insert 1 deny from 148.66.23.66
 #ufw insert 1 deny from 217.13.229.166 #Sweden, NAT Beloning to globalconnect.se????
-ufw insert 1 deny from 83.241.247.220 #Sweden
-ufw insert 1 deny from 135.225.152.67 #Sweden
-ufw insert 1 deny from 83.219.250.112 #Sweden
+#ufw insert 1 deny from 83.241.247.220 #Sweden, NAT?
+ufw insert 1 deny from 135.225.152.67 #Sweden, microsoft
+ufw insert 1 deny from 83.219.250.112 #Sweden obl-com.ru
 ufw insert 1 deny from 114.119.136.103
 ufw insert 1 deny from 45.148.10.90
 ufw insert 1 deny from 114.119.159.61
