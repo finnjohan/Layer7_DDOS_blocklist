@@ -1020,3 +1020,24 @@ ufw insert 1 deny from 20.14.159.242
 ufw insert 1 deny from 104.248.87.23
 ufw insert 1 deny from 20.14.159.242
 ufw insert 1 deny from 20.171.207.192
+ufw insert 1 deny from 148.66.23.66
+ufw insert 1 deny from 217.13.229.166 #Sweden
+ufw insert 1 deny from 114.119.136.103
+ufw insert 1 deny from 45.148.10.90
+ufw insert 1 deny from 114.119.159.61
+ufw insert 1 deny from 47.245.124.200
+ufw insert 1 deny from 68.178.174.75
+ufw insert 1 deny from 130.61.227.192
+ufw insert 1 deny from 148.66.23.66
+ufw insert 1 deny from 8.222.166.37
+ufw insert 1 deny from 218.250.231.191
+ufw insert 1 deny from 132.164.153.44
+ufw insert 1 deny from 114.119.131.90 #petalbot
+ufw insert 1 deny from 114.119.150.64 #petalbot
+ufw insert 1 deny from 51.222.138.15
+ufw insert 1 deny from 45.148.10.90
+ufw insert 1 deny from 174.138.14.238
+ufw insert 1 deny from 159.89.18.34
+ufw insert 1 deny from 51.68.76.141
+ufw insert 1 deny from 134.122.84.242
+ufw insert 1 deny from 207.154.224.21
