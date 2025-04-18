@@ -1079,3 +1079,8 @@ ufw insert 1 deny from 217.113.194.152
 ufw insert 1 deny from 217.113.194.160
 ufw insert 1 deny from 217.113.194.157
 ufw insert 1 deny from 13.218.121.21 #Windows http-probing
+ufw insert 1 deny from 223.109.252.207
+ufw insert 1 deny from 195.178.110.159
+ufw insert 1 deny from 193.233.165.245
+ufw insert 1 deny from 167.94.138.60
+ufw insert 1 deny from 143.110.223.209
