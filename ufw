@@ -1143,3 +1143,6 @@ ufw insert 1 deny from 192.145.30.92 #Sweden neterra.net
 ufw insert 1 deny from 223.109.252.215
 ufw insert 1 deny from 162.216.16.109
 ufw insert 1 deny from 146.148.116.236
+ufw insert 1 deny from 34.34.162.61
+ufw insert 1 deny from 112.86.225.181
+ufw insert 1 deny from 223.109.252.252
