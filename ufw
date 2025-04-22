@@ -1207,3 +1207,5 @@ ufw insert 1 deny from 121.229.156.81
 ufw insert 1 deny from 217.113.194.155
 ufw insert 1 deny from 217.113.194.0/24 #Babbar IP range
 ufw insert 1 deny from 154.54.249.208
+ufw insert 1 deny from 13.79.153.46
+ufw insert 1 deny from 162.142.125.221
