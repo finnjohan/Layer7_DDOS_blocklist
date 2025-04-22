@@ -1191,3 +1191,4 @@ ufw insert 1 deny from 223.109.255.147
 ufw insert 1 deny from 165.227.147.215
 ufw insert 1 deny from 167.94.138.183 #Censys
 ufw insert 1 deny from 34.77.6.37
+ufw insert 1 deny from 112.86.225.173
