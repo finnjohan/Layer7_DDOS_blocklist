@@ -150,18 +150,6 @@ ufw insert 1 deny from 119.12.165.255
 ufw insert 1 deny from 119.251.179.189
 ufw insert 1 deny from 119.8.187.111
 ufw insert 1 deny from 120.224.169.28
-ufw insert 1 deny from 121.229.156.111
-ufw insert 1 deny from 121.229.156.111 #sogouspider
-ufw insert 1 deny from 121.229.156.117
-ufw insert 1 deny from 121.229.156.119
-ufw insert 1 deny from 121.229.156.122
-ufw insert 1 deny from 121.229.156.15
-ufw insert 1 deny from 121.229.156.18
-ufw insert 1 deny from 121.229.156.65
-ufw insert 1 deny from 121.229.156.72
-ufw insert 1 deny from 121.229.156.81
-ufw insert 1 deny from 121.229.156.97
-ufw insert 1 deny from 121.229.156.98
 ufw insert 1 deny from 122.10.14.72
 ufw insert 1 deny from 123.182.49.148
 ufw insert 1 deny from 124.156.196.210
