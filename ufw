@@ -321,7 +321,6 @@ ufw insert 1 deny from 167.94.138.181
 ufw insert 1 deny from 167.94.138.183 #Censys
 ufw insert 1 deny from 167.94.138.207
 ufw insert 1 deny from 167.94.138.60
-ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 167.94.145.104 #Censys
 ufw insert 1 deny from 167.94.145.109 #Censys
 ufw insert 1 deny from 167.94.145.111 #Censys
@@ -1192,3 +1191,4 @@ ufw insert 1 deny from 121.229.156.0/24 #sogouspider range
 ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 40.77.167.0/24 #MSN
 ufw insert 1 deny from 154.81.156.0/24
+ufw insert 1 deny from 167.94.145.0/24 #Censys range
