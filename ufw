@@ -1124,8 +1124,6 @@ ufw insert 1 deny from 82.145.215.206
 ufw insert 1 deny from 8.218.91.49
 ufw insert 1 deny from 8.222.166.37
 ufw insert 1 deny from 82.24.200.110
-ufw insert 1 deny from 83.219.250.112 #Sweden obl-com.ru
-#ufw insert 1 deny from 83.241.247.220 #Sweden, NAT?
 ufw insert 1 deny from 87.121.84.132
 ufw insert 1 deny from 88.90.243.142
 ufw insert 1 deny from 89.58.48.103
@@ -1144,6 +1142,13 @@ ufw insert 1 deny from 52.167.144.195
 ufw insert 1 deny from 134.209.205.221
 ufw insert 1 deny from 47.238.13.9
 ufw insert 1 deny from 185.15.56.1
+ufw insert 1 deny from 104.47.71.190
+ufw insert 1 deny from 48.209.223.43
+ufw insert 1 deny from 104.47.11.254
+ufw insert 1 deny from 83.219.250.112 #Sweden obl-com.ru
+#ufw insert 1 deny from 83.241.247.220 #Sweden, NAT?
+#ufw insert 1 deny from 217.114.93.38 #Sweden
+#ufw insert 1 deny from 135.225.152.64 #Sweden
 ufw insert 1 deny from 217.113.194.156 #Babbar
 ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
 ufw insert 1 deny from 121.229.156.0/24 #sogouspider range
