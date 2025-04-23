@@ -640,9 +640,6 @@ ufw insert 1 deny from 40.116.73.211
 ufw insert 1 deny from 40.116.73.217
 ufw insert 1 deny from 40.116.73.221
 ufw insert 1 deny from 40.124.168.156
-ufw insert 1 deny from 40.77.167.123
-ufw insert 1 deny from 40.77.167.254
-ufw insert 1 deny from 40.77.167.55
 ufw insert 1 deny from 40.77.188.136
 ufw insert 1 deny from 40.77.188.180
 ufw insert 1 deny from 40.77.188.69
