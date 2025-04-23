@@ -519,21 +519,6 @@ ufw insert 1 deny from 221.111.209.2
 ufw insert 1 deny from 221.111.210.2
 ufw insert 1 deny from 221.202.27.194
 ufw insert 1 deny from 222.186.134.245
-ufw insert 1 deny from 223.109.252.152
-ufw insert 1 deny from 223.109.252.157
-ufw insert 1 deny from 223.109.252.162
-ufw insert 1 deny from 223.109.252.173
-ufw insert 1 deny from 223.109.252.181
-ufw insert 1 deny from 223.109.252.196
-ufw insert 1 deny from 223.109.252.204 #sogouspider
-ufw insert 1 deny from 223.109.252.207
-ufw insert 1 deny from 223.109.252.212
-ufw insert 1 deny from 223.109.252.215
-ufw insert 1 deny from 223.109.252.217
-ufw insert 1 deny from 223.109.252.238
-ufw insert 1 deny from 223.109.252.239
-ufw insert 1 deny from 223.109.252.250
-ufw insert 1 deny from 223.109.252.252
 ufw insert 1 deny from 223.109.255.142
 ufw insert 1 deny from 223.109.255.144
 ufw insert 1 deny from 223.109.255.147
@@ -1188,4 +1173,4 @@ ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 40.77.167.0/24 #MSN range
 ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 217.113.194.0/24 #Babbar range
-ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
+
