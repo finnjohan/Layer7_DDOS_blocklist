@@ -1234,3 +1234,6 @@ ufw insert 1 deny from 162.142.125.212 #Censys
 ufw insert 1 deny from 146.148.116.236
 ufw insert 1 deny from 223.109.252.204 #sogouspider
 ufw insert 1 deny from 64.227.158.44
+ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
+ufw insert 1 deny from 121.229.156.0/24 #sogouspider range
+ufw insert 1 deny from 167.94.145.0/24 #Censys range
