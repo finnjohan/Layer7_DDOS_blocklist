@@ -1211,3 +1211,26 @@ ufw insert 1 deny from 13.79.153.46
 ufw insert 1 deny from 162.142.125.221
 ufw insert 1 deny from 223.109.255.153
 ufw insert 1 deny from 120.224.169.28
+ufw insert 1 deny from 79.137.68.171
+ufw insert 1 deny from 206.81.12.187
+ufw insert 1 deny from 217.113.194.154
+ufw insert 1 deny from 139.59.136.184
+ufw insert 1 deny from 217.113.194.155
+ufw insert 1 deny from 217.113.194.158
+ufw insert 1 deny from 217.113.194.156
+ufw insert 1 deny from 116.49.7.62
+ufw insert 1 deny from 142.93.0.66
+ufw insert 1 deny from 34.79.250.79
+ufw insert 1 deny from 52.14.252.80
+ufw insert 1 deny from 35.189.224.146
+ufw insert 1 deny from 167.94.145.109 #Censys
+ufw insert 1 deny from 195.178.110.161
+ufw insert 1 deny from 217.113.194.154 #Babbar
+ufw insert 1 deny from 121.229.156.111 #sogouspider
+ufw insert 1 deny from 117.62.207.149
+ufw insert 1 deny from 167.71.14.75
+ufw insert 1 deny from 79.137.68.171
+ufw insert 1 deny from 162.142.125.212 #Censys
+ufw insert 1 deny from 146.148.116.236
+ufw insert 1 deny from 223.109.252.204 #sogouspider
+ufw insert 1 deny from 64.227.158.44
