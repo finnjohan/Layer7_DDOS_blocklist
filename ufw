@@ -1142,6 +1142,13 @@ ufw insert 1 deny from 185.15.56.1
 ufw insert 1 deny from 104.47.71.190
 ufw insert 1 deny from 48.209.223.43
 ufw insert 1 deny from 104.47.11.254
+ufw insert 1 deny from 108.128.16.111
+ufw insert 1 deny from 52.102.16.165
+ufw insert 1 deny from 34.214.91.70
+ufw insert 1 deny from 108.128.16.111
+ufw insert 1 deny from 52.102.16.165
+ufw insert 1 deny from 14.232.97.49
+ufw insert 1 deny from 222.254.63.45
 #ufw insert 1 deny from 192.145.30.92 #Sweden neterra.net
 #ufw insert 1 deny from 217.13.229.166 #Sweden, NAT Belonging to globalconnect.se????
 ufw insert 1 deny from 135.225.152.67 #Sweden, microsoft
