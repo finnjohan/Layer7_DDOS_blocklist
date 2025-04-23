@@ -519,7 +519,6 @@ ufw insert 1 deny from 221.111.209.2
 ufw insert 1 deny from 221.111.210.2
 ufw insert 1 deny from 221.202.27.194
 ufw insert 1 deny from 222.186.134.245
-ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
 ufw insert 1 deny from 223.109.252.152
 ufw insert 1 deny from 223.109.252.157
 ufw insert 1 deny from 223.109.252.162
@@ -1192,3 +1191,4 @@ ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 172.213.12.0/24
 ufw insert 1 deny from 185.247.137.0/24
 ufw insert 1 deny from 217.113.194.0/24 #Babbar IP range
+ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
