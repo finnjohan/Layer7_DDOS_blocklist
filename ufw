@@ -1136,6 +1136,8 @@ ufw insert 1 deny from 98.158.100.12
 ufw insert 1 deny from 98.64.96.21
 ufw insert 1 deny from 98.82.63.147
 ufw insert 1 deny from 45.148.10.97
+ufw insert 1 deny from 170.64.154.53
+ufw insert 1 deny from 217.113.194.156 #Babbar
 ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
 ufw insert 1 deny from 121.229.156.0/24 #sogouspider range
 ufw insert 1 deny from 167.94.145.0/24 #Censys range
