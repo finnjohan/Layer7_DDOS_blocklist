@@ -1,6 +1,4 @@
 ufw insert 1 deny from 154.84.62.234 #Shellshock
-ufw insert 1 deny from 112.86.225.242 #Sogou
-ufw insert 1 deny from 112.86.225.33 #Sogou
 ufw insert 1 deny from 120.195.30.141 #http-cve-2021-41773
 ufw insert 1 deny from 45.148.10.97
 ufw insert 1 deny from 35.189.224.146
@@ -9,7 +7,6 @@ ufw insert 1 deny from 104.236.236.110
 ufw insert 1 deny from 3.110.127.4
 ufw insert 1 deny from 167.94.145.102
 ufw insert 1 deny from 185.47.253.216
-ufw insert 1 deny from 112.86.225.68
 ufw insert 1 deny from 154.84.62.234
 ufw insert 1 deny from 34.77.88.152
 ufw insert 1 deny from 183.220.231.212
@@ -95,20 +92,6 @@ ufw insert 1 deny from 111.119.233.32
 ufw insert 1 deny from 111.119.235.214
 ufw insert 1 deny from 111.119.244.94
 ufw insert 1 deny from 111.225.148.218
-ufw insert 1 deny from 112.86.225.114
-ufw insert 1 deny from 112.86.225.118
-ufw insert 1 deny from 112.86.225.121
-ufw insert 1 deny from 112.86.225.154
-ufw insert 1 deny from 112.86.225.173
-ufw insert 1 deny from 112.86.225.178
-ufw insert 1 deny from 112.86.225.181
-ufw insert 1 deny from 112.86.225.216
-ufw insert 1 deny from 112.86.225.228
-ufw insert 1 deny from 112.86.225.253
-ufw insert 1 deny from 112.86.225.34
-ufw insert 1 deny from 112.86.225.81
-ufw insert 1 deny from 112.86.225.83
-ufw insert 1 deny from 112.86.225.98
 ufw insert 1 deny from 114.119.128.102
 ufw insert 1 deny from 114.119.128.58
 ufw insert 1 deny from 114.119.128.67
@@ -1211,8 +1194,9 @@ ufw insert 1 deny from 83.219.250.112 #Sweden obl-com.ru
 #ufw insert 1 deny from 217.114.93.38 #Sweden
 ufw insert 1 deny from 135.225.152.64 #Sweden
 ufw insert 1 deny from 217.113.194.156 #Babbar
-ufw insert 1 deny from 223.109.252.0/24 #sogouspider range
-ufw insert 1 deny from 121.229.156.0/24 #sogouspider range
+ufw insert 1 deny from 223.109.252.0/24 #Sogouspider range
+ufw insert 1 deny from 121.229.156.0/24 #Sogouspider range
+ufw insert 1 deny from 112.86.225.0/24 #Sogouspider range
 ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 40.77.167.0/24 #MSN range
 ufw insert 1 deny from 217.113.194.0/24 #Babbar range
