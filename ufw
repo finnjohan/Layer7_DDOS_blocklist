@@ -463,6 +463,7 @@ ufw insert 1 deny from 196.251.85.238
 ufw insert 1 deny from 196.251.85.250
 ufw insert 1 deny from 196.251.85.74
 ufw insert 1 deny from 196.251.86.86
+ufw insert 1 deny from 199.45.154.133
 ufw insert 1 deny from 199.45.154.120
 ufw insert 1 deny from 199.45.154.128
 ufw insert 1 deny from 199.45.154.132 
