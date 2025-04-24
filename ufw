@@ -42,8 +42,6 @@ ufw insert 1 deny from 160.79.109.227
 ufw insert 1 deny from 13.239.26.176
 ufw insert 1 deny from 160.79.108.254
 ufw insert 1 deny from 160.79.109.250
-ufw insert 1 deny from 217.113.194.154
-ufw insert 1 deny from 217.113.194.158
 ufw insert 1 deny from 13.89.124.214
 ufw insert 1 deny from 47.76.208.118
 ufw insert 1 deny from 159.203.39.73
@@ -1203,4 +1201,5 @@ ufw insert 1 deny from 217.113.194.0/24 #Babbar range
 ufw insert 1 deny from 167.94.146.0/24 #Censys range
 ufw insert 1 deny from 162.142.125.0/24 #Censys range
 ufw insert 1 deny from 154.54.249.0/24 #Babbar range
+ufw insert 1 deny from 217.113.194.0/24 #Babbar range
 
