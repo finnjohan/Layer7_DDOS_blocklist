@@ -1,3 +1,19 @@
+ufw insert 1 deny from 45.148.10.97
+ufw insert 1 deny from 35.189.224.146
+ufw insert 1 deny from 45.148.10.42
+ufw insert 1 deny from 104.236.236.110
+ufw insert 1 deny from 3.110.127.4
+ufw insert 1 deny from 167.94.145.102
+ufw insert 1 deny from 185.47.253.216
+ufw insert 1 deny from 112.86.225.68
+ufw insert 1 deny from 154.84.62.234
+ufw insert 1 deny from 34.77.88.152
+ufw insert 1 deny from 183.220.231.212
+ufw insert 1 deny from 93.123.109.81
+ufw insert 1 deny from 195.178.110.161
+ufw insert 1 deny from 104.199.39.91
+ufw insert 1 deny from 13.239.26.176
+ufw insert 1 deny from 223.109.252.139 #Sogou
 ufw insert 1 deny from 45.148.10.42
 ufw insert 1 deny from 13.79.199.112
 ufw insert 1 deny from 143.110.145.237
