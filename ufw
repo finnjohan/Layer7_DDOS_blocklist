@@ -1,3 +1,5 @@
+ufw insert 1 deny from 65.21.44.205
+ufw insert 1 deny from 154.81.156.10
 ufw insert 1 deny from 154.84.62.234 #Shellshock
 ufw insert 1 deny from 120.195.30.141 #http-cve-2021-41773
 ufw insert 1 deny from 45.148.10.97
