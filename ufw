@@ -6,7 +6,7 @@ ufw insert 1 deny from 23.95.185.154
 ufw insert 1 deny from 154.195.186.207
 ufw insert 1 deny from 98.178.72.21
 ufw insert 1 deny from 93.177.119.96
-ufw insert 1 deny from 185.157.212.157
+ufw insert 1 deny from 185.157.212.157 #Finland
 ufw insert 1 deny from 89.219.221.216
 ufw insert 1 deny from 37.212.50.30
 ufw insert 1 deny from 125.228.216.16
