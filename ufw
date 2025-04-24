@@ -1,3 +1,4 @@
+ufw insert 1 deny from 34.96.47.14
 ufw insert 1 deny from 45.119.211.229
 ufw insert 1 deny from 183.220.231.212 #http-cve-2021-42013
 ufw insert 1 deny from 65.21.44.205
