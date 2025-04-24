@@ -1,3 +1,7 @@
+154.84.62.234 #Shellshock
+112.86.225.242 #Sogou
+112.86.225.33 #Sogou
+120.195.30.141 #http-cve-2021-41773
 ufw insert 1 deny from 45.148.10.97
 ufw insert 1 deny from 35.189.224.146
 ufw insert 1 deny from 45.148.10.42
