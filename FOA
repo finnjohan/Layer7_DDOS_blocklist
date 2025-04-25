@@ -192,3 +192,23 @@ ufw insert 1 deny from 14.191.106.202
 ufw insert 1 deny from 14.191.120.2
 ufw insert 1 deny from 14.191.25.24
 ufw insert 1 deny from 14.191.158.237
+ufw insert 1 deny from 47.239.74.0/23 #Alibaba cloud
+#ufw insert 1 deny from 14.162.63.229/32
+#ufw insert 1 deny from 14.167.235.175/32
+#ufw insert 1 deny from 14.170.121.249/32
+#ufw insert 1 deny from 14.172.41.221/32
+#ufw insert 1 deny from 14.177.251.181/32
+#ufw insert 1 deny from 14.186.204.122/32
+#ufw insert 1 deny from 14.188.82.185/32
+#ufw insert 1 deny from 14.191.0.0/16
+#ufw insert 1 deny from 14.231.152.46/32
+#ufw insert 1 deny from 14.232.229.0/32
+#ufw insert 1 deny from 14.248.220.208/32
+#ufw insert 1 deny from 113.160.0.0/11
+#ufw insert 1 deny from 123.16.38.163/32
+#ufw insert 1 deny from 123.16.227.66/32
+#ufw insert 1 deny from 123.18.193.149/32
+#ufw insert 1 deny from 171.233.57.54/32
+#ufw insert 1 deny from 171.240.0.146/32
+#ufw insert 1 deny from 222.254.18.128/32
+#ufw insert 1 deny from 222.254.210.10/32
