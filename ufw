@@ -1258,6 +1258,7 @@ ufw insert 1 deny from 52.102.16.165
 ufw insert 1 deny from 14.232.97.49
 ufw insert 1 deny from 222.254.63.45
 ufw insert 1 deny from 154.83.103.108
+#ufw insert 1 deny from 46.246.47.34 #Sweden Glesys
 #ufw insert 1 deny from 72.14.201.100 #Sweden probably OK
 #ufw insert 1 deny from 98.128.240.22 #Sweden Bahnhof Goteborg
 #ufw insert 1 deny from 192.145.30.92 #Sweden neterra.net
