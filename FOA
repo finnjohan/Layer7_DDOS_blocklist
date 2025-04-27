@@ -561,3 +561,14 @@ ufw insert 1 deny from 113.167.71.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.173.122.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.183.18.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.190.159.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.10.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.106.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.112.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.120.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.161.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.177.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.179.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.191.240.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 14.248.209.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 123.20.148.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 222.255.204.0/24 #VietNam Data Communication Company range
