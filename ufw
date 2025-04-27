@@ -1,3 +1,22 @@
+ufw insert 1 deny from 167.94.146.58
+ufw insert 1 deny from 34.79.99.11
+ufw insert 1 deny from 34.34.185.61
+ufw insert 1 deny from 180.102.110.159
+ufw insert 1 deny from 45.148.10.97
+ufw insert 1 deny from 162.142.125.208
+ufw insert 1 deny from 146.148.116.236
+ufw insert 1 deny from 45.148.10.97
+ufw insert 1 deny from 65.21.44.205
+ufw insert 1 deny from 199.45.155.79
+ufw insert 1 deny from 223.109.255.159
+ufw insert 1 deny from 180.253.73.140
+ufw insert 1 deny from 144.91.119.115
+ufw insert 1 deny from 180.102.110.153
+ufw insert 1 deny from 154.31.114.51
+ufw insert 1 deny from 120.195.30.141
+ufw insert 1 deny from 45.148.10.97
+ufw insert 1 deny from 160.191.51.211
+#ufw insert 1 deny from 185.146.65.10 #Spain, fixed line
 ufw insert 1 deny from 167.94.138.185
 ufw insert 1 deny from 45.148.10.42
 ufw insert 1 deny from 13.239.26.176
@@ -864,7 +883,7 @@ ufw insert 1 deny from 45.8.25.9
 ufw insert 1 deny from 45.93.184.169
 ufw insert 1 deny from 45.94.31.193
 ufw insert 1 deny from 46.135.40.150
-#ufw insert 1 deny from 46.246.47.34 #Sweden Glesys
+#ufw insert 1 deny from 46.246.47.34 #Sweden Glesys, returning
 ufw insert 1 deny from 4703.05.23 
 ufw insert 1 deny from 47.128.110.123
 ufw insert 1 deny from 47.128.111.159
