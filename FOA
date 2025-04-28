@@ -717,3 +717,4 @@ ufw insert 1 deny from 171.234.10.0/24 #Viettel Group range
 ufw insert 1 deny from 125.235.233.0/24 #xDSL Services of DaNang range
 ufw insert 1 deny from 47.239.138.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 47.239.139.0/24 #Alibaba Cloud range
+ufw insert 1 deny from 47.239.140.0/24 #Alibaba Cloud range
