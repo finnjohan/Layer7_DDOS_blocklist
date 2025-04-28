@@ -1,3 +1,5 @@
+ufw insert 1 deny from 162.240.239.234
+ufw insert 1 deny from 168.149.76.190
 ufw insert 1 deny from 104.224.123.216
 ufw insert 1 deny from 188.166.147.216
 ufw insert 1 deny from 47.239.126.192
@@ -645,6 +647,13 @@ ufw insert 1 deny from 47.239.128.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.120.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.122.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.121.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.135.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.133.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.136.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.133.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.134.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.134.0/24 #Alibaba cloud range
+ufw insert 1 deny from 221.132.13.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.167.71.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.173.122.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.183.18.0/24 #Vietnam Posts and Tele range
@@ -673,6 +682,7 @@ ufw insert 1 deny from 47.239.130.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 47.239.129.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 221.132.14.255 #Vietnam Posts and Tele range
 ufw insert 1 deny from 171.236.58.23 #Viettel Group range
+ufw insert 1 deny from 27.76.5.0/24 #Viettel Group range
 ufw insert 1 deny from 171.236.128.0/24 #Viettel Group range
 ufw insert 1 deny from 116.98.255.0/24 #Viettel Group range
 ufw insert 1 deny from 116.104.181.0/24 #Viettel Group range
