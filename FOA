@@ -671,4 +671,5 @@ ufw insert 1 deny from 221.132.14.255 #Vietnam Posts and Tele range
 ufw insert 1 deny from 171.236.58.23 #Viettel Group range
 ufw insert 1 deny from 171.236.128.0/24 #Viettel Group range
 ufw insert 1 deny from 116.98.255.0/24 #Viettel Group range
+ufw insert 1 deny from 116.104.181.0/24 #Viettel Group range
 ufw insert 1 deny from 125.235.233.0/24 #xDSL Services of DaNang range
