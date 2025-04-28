@@ -693,6 +693,7 @@ ufw insert 1 deny from 118.68.5.0/24 #Viettel Group range
 ufw insert 1 deny from 171.252.21.0/24 #Viettel Group range
 ufw insert 1 deny from 171.236.58.23 #Viettel Group range
 ufw insert 1 deny from 27.76.5.0/24 #Viettel Group range
+ufw insert 1 deny from 171.234.11.0/24 #Viettel Group range
 ufw insert 1 deny from 171.236.128.0/24 #Viettel Group range
 ufw insert 1 deny from 116.98.255.0/24 #Viettel Group range
 ufw insert 1 deny from 116.104.181.0/24 #Viettel Group range
