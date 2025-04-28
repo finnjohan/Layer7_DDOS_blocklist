@@ -1,3 +1,4 @@
+ufw insert 1 deny from 116.111.185.162
 ufw insert 1 deny from 116.106.129.94
 ufw insert 1 deny from 156.228.107.140
 ufw insert 1 deny from 197.238.146.170
@@ -734,3 +735,5 @@ ufw insert 1 deny from 47.239.142.0/24 #Alibaba Cloud range
 ufw insert 1 deny from 171.240.27.0/24 #Viettel Group range
 ufw insert 1 deny from 42.119.145.0/24 #FTP telecom range
 ufw insert 1 deny from 116.106.129.0/24 #Viettel Group range
+ufw insert 1 deny from 116.111.185.0/24 #Viettel Group range
+
