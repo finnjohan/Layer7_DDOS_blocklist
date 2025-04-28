@@ -1,3 +1,6 @@
+ufw insert 1 deny from 162.240.239.234
+ufw insert 1 deny from 47.239.128.136
+ufw insert 1 deny from 47.239.128.179
 ufw insert 1 deny from 223.109.255.162
 ufw insert 1 deny from 152.57.41.212
 ufw insert 1 deny from 167.94.138.201
@@ -620,6 +623,7 @@ ufw insert 1 deny from 47.239.87.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.89.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.90.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.92.0/24 #Alibaba cloud range
+ufw insert 1 deny from 47.239.128.0/24 #Alibaba cloud range
 ufw insert 1 deny from 113.167.71.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.173.122.0/24 #Vietnam Posts and Tele range
 ufw insert 1 deny from 113.183.18.0/24 #Vietnam Posts and Tele range
