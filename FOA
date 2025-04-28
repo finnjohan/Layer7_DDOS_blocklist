@@ -1,3 +1,6 @@
+ufw insert 1 deny from 162.240.239.234
+ufw insert 1 deny from 171.236.128.246
+ufw insert 1 deny from 86.2.64.204
 ufw insert 1 deny from 14.186.190.203
 ufw insert 1 deny from 14.191.138.101
 ufw insert 1 deny from 113.190.59.202
@@ -630,3 +633,5 @@ ufw insert 1 deny from 113.160.0.0/11 #Vietnam Posts and Tele range
 ufw insert 1 deny from 123.16.0.0/12 #Vietnam Posts and Tele range
 ufw insert 1 deny from 222.252.0.0/14 #Vietnam Posts and Tele range
 ufw insert 1 deny from 203.162.0.0/16 #Vietnam Posts and Tele range
+ufw insert 1 deny from 221.132.2.0/24 #Vietnam Posts and Tele range
+ufw insert 1 deny from 171.236.128.0/24 #Viettel Group range
