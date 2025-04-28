@@ -1,3 +1,4 @@
+ufw insert 1 deny from 47.239.123.101
 ufw insert 1 deny from 47.239.128.96
 ufw insert 1 deny from 47.239.125.250
 ufw insert 1 deny from 47.239.132.28
@@ -600,6 +601,7 @@ ufw insert 1 deny from 47.239.89.132
 ufw insert 1 deny from 47.239.89.200
 ufw insert 1 deny from 47.239.90.54
 ufw insert 1 deny from 47.239.92.197
+ufw insert 1 deny from 47.239.123.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.125.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.132.0/24 #Alibaba cloud range
 ufw insert 1 deny from 47.239.117.0/24 #Alibaba cloud range
