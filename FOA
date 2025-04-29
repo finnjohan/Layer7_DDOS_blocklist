@@ -1,3 +1,7 @@
+ufw insert 1 deny from 223.109.255.172
+ufw insert 1 deny from 167.94.138.118
+ufw insert 1 deny from 171.224.25.154
+ufw insert 1 deny from 171.243.58.208
 ufw insert 1 deny from 103.95.82.47
 ufw insert 1 deny from 120.60.9.18
 ufw insert 1 deny from 20.15.133.191
@@ -875,4 +879,6 @@ ufw insert 1 deny from 47.239.155.0/24 #Alibaba cloud
 ufw insert 1 deny from 47.239.154.0/24 #Alibaba cloud
 ufw insert 1 deny from 57.129.81.0/24 #OVH GmbH
 ufw insert 1 deny from 57.129.81.0/24 #Alibaba cloud
+ufw insert 1 deny from 171.224.25.0/24 #Viettel range
+ufw insert 1 deny from 171.243.58.0/24 #Viettel range
 
