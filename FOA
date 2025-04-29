@@ -888,4 +888,5 @@ ufw insert 1 deny from 171.224.25.0/24 #Viettel range
 ufw insert 1 deny from 171.243.58.0/24 #Viettel range
 ufw insert 1 deny from 57.129.81.0/24 #Viettel range
 ufw insert 1 deny from 171.234.116.0/24 #Viettel range
+ufw insert 1 deny from 47.239.157.0/24 #Alibaba cloud
 
