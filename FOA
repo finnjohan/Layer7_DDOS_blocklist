@@ -874,4 +874,5 @@ ufw insert 1 deny from 47.239.154.0/24 #Alibaba cloud
 ufw insert 1 deny from 47.239.155.0/24 #Alibaba cloud
 ufw insert 1 deny from 47.239.154.0/24 #Alibaba cloud
 ufw insert 1 deny from 57.129.81.0/24 #OVH GmbH
+ufw insert 1 deny from 57.129.81.0/24 #Alibaba cloud
 
