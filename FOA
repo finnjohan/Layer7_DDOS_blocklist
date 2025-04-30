@@ -9,8 +9,6 @@ ufw insert 1 deny from 71.81.79.232
 ufw insert 1 deny from 45.236.151.115
 ufw insert 1 deny from 151.231.78.237
 ufw insert 1 deny from 171.234.8.132
-ufw insert 1 deny from 171.234.8.0/24 #Viettel range
-ufw insert 1 deny from 116.99.254.0/24 #Viettel range
 ufw insert 1 deny from 45.67.183.1
 ufw insert 1 deny from 189.107.125.199
 ufw insert 1 deny from 46.18.64.190
@@ -1228,4 +1226,6 @@ ufw insert 1 deny from 171.225.202.0/24 #Viettel Group range
 ufw insert 1 deny from 27.71.98.0/24 #Viettel Group range
 ufw insert 1 deny from 116.97.105.0/24 #Viettel Group range
 ufw insert 1 deny from 58.187.188.0/24 #Viettel Group range
+ufw insert 1 deny from 171.234.8.0/24 #Viettel range
+ufw insert 1 deny from 116.99.254.0/24 #Viettel range
 ufw insert 1 deny from 47.239.0.0/16 #Alibaba all 47.239 IP 47.239.0.0 - 47.239.255.255
