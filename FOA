@@ -1,3 +1,5 @@
+ufw insert 1 deny from 203.210.191.175
+ufw insert 1 deny from 203.210.191.0/24 #Viettel Group range
 ufw insert 1 deny from 5.82.88.138
 ufw insert 1 deny from 171.228.138.217
 ufw insert 1 deny from 171.228.138.0/24 #Viettel Group range
