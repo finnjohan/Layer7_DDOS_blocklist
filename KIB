@@ -1,3 +1,41 @@
+ufw insert 1 deny from 3.147.69.118 
+ufw insert 1 deny from 196.198.13.224
+ufw insert 1 deny from 23.229.109.101
+ufw insert 1 deny from 84.33.21.8
+ufw insert 1 deny from 212.42.202.109
+ufw insert 1 deny from 34.68.87.144
+ufw insert 1 deny from 196.240.254.44
+ufw insert 1 deny from 156.228.105.208
+#ufw insert 1 deny from 196.244.48.143 #Fibergrid, grok!!!!!!!!!
+#ufw insert 1 deny from 165.231.24.164 #Fibergrid co za, Grok SWE !!!!!!!
+ufw insert 1 deny from 84.33.21.8
+ufw insert 1 deny from 3.66.218.152
+ufw insert 1 deny from 3.71.115.94
+ufw insert 1 deny from 3.76.189.245
+ufw insert 1 deny from 3.73.138.255
+ufw insert 1 deny from 35.158.160.32
+ufw insert 1 deny from 18.184.220.241
+ufw insert 1 deny from 3.147.69.118
+ufw insert 1 deny from 195.178.110.161
+ufw insert 1 deny from 23.20.221.169
+ufw insert 1 deny from 196.242.178.207
+ufw insert 1 deny from 3.147.13.29
+ufw insert 1 deny from 196.242.20.194
+ufw insert 1 deny from 193.31.126.245
+ufw insert 1 deny from 156.228.99.47
+ufw insert 1 deny from 196.242.178.145
+ufw insert 1 deny from 103.95.196.83
+ufw insert 1 deny from 185.213.245.236
+ufw insert 1 deny from 162.243.172.98
+ufw insert 1 deny from 146.70.175.78
+ufw insert 1 deny from 23.229.109.101
+ufw insert 1 deny from 103.87.142.73
+ufw insert 1 deny from 212.42.202.109
+ufw insert 1 deny from 107.174.238.230
+ufw insert 1 deny from 196.244.48.143
+ufw insert 1 deny from 79.116.231.253
+ufw insert 1 deny from 185.213.245.162
+ufw insert 1 deny from 196.240.254.48
 ufw insert 1 deny from 156.228.105.208
 ufw insert 1 deny from 165.231.24.164 #Fibergrid co za, Grok !!!!!!!
 ufw insert 1 deny from 3.248.175.88
