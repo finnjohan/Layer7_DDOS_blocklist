@@ -1,3 +1,25 @@
+ufw insert 1 deny from 34.121.145.183
+ufw insert 1 deny from 185.213.245.118
+ufw insert 1 deny from 154.21.126.178
+ufw insert 1 deny from 50.114.14.250
+ufw insert 1 deny from 103.247.151.122
+ufw insert 1 deny from 34.45.160.172
+ufw insert 1 deny from 34.219.30.49
+ufw insert 1 deny from 185.213.245.148
+ufw insert 1 deny from 185.213.245.185
+ufw insert 1 deny from 103.161.170.155
+ufw insert 1 deny from 156.228.125.16
+ufw insert 1 deny from 185.213.245.63
+ufw insert 1 deny from 38.153.149.7
+ufw insert 1 deny from 154.83.103.115
+ufw insert 1 deny from 185.213.246.118
+ufw insert 1 deny from 173.211.69.155
+ufw insert 1 deny from 185.213.245.43
+ufw insert 1 deny from 125.228.216.16
+ufw insert 1 deny from 45.125.245.153
+#ufw insert 1 deny from 151.237.177.17 #interconnects.us, Sweden?
+ufw insert 1 deny from 146.70.176.222
+ufw insert 1 deny from 185.213.245.216
 ufw insert 1 deny from 52.102.16.181
 ufw insert 1 deny from 191.101.109.49
 ufw insert 1 deny from 66.63.187.197
