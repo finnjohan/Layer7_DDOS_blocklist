@@ -1,3 +1,14 @@
+ufw insert 1 deny from 185.213.246.17
+ufw insert 1 deny from 87.121.84.56
+ufw insert 1 deny from 120.11.90.196
+ufw insert 1 deny from 104.47.51.126
+ufw insert 1 deny from 185.213.245.239
+ufw insert 1 deny from 156.248.87.213
+ufw insert 1 deny from 45.41.170.4
+ufw insert 1 deny from 45.43.188.246
+ufw insert 1 deny from 185.213.246.73
+ufw insert 1 deny from 68.71.245.206
+ufw insert 1 deny from 165.231.101.131
 ufw insert 1 deny from 191.102.176.3
 ufw insert 1 deny from 185.97.7.233
 ufw insert 1 deny from 165.231.24.218 #fibergrid.co.za, Sweden????
