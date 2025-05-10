@@ -1,3 +1,10 @@
+ufw insert 1 deny from 196.240.105.60
+ufw insert 1 deny from 169.150.237.11
+ufw insert 1 deny from 219.154.210.157
+ufw insert 1 deny from 183.199.125.149
+ufw insert 1 deny from 45.91.165.113
+#ufw insert 1 deny from 165.231.24.97 #Fibergrid Sweden
+ufw insert 1 deny from 183.199.125.149
 ufw insert 1 deny from 217.182.195.179
 ufw insert 1 deny from 185.213.245.60
 ufw insert 1 deny from 196.242.178.66
