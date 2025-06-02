@@ -1,0 +1,4 @@
+ufw deny from 125.17.108.32
+ufw deny from 93.123.109.230
+ufw deny from 162.243.200.231
+ufw deny from 135.225.152.67
