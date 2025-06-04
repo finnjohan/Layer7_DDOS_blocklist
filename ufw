@@ -8,6 +8,7 @@ ufw insert 1 deny from 93.123.109.230 #From proxy
 ufw insert 1 deny from 162.243.200.231 #From proxy
 ufw insert 1 deny from 135.225.152.67 #From proxy
 ufw insert 1 deny from 135.225.152.64 #From proxy
+ufw insert 1 deny from 139.59.112.206
 ufw insert 1 deny from 20.106.57.180
 ufw insert 1 deny from 216.245.218.90
 ufw insert 1 deny from 4.213.224.237
