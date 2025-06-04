@@ -1,3 +1,6 @@
+ufw insert 1 deny from 23.137.105.229 #From proxy
+ufw insert 1 deny from 146.19.215.117 #From proxy
+ufw insert 1 deny from 170.205.30.84 #From proxy
 ufw insert 1 deny from 176.65.148.52 #From proxy
 ufw insert 1 deny from 146.19.215.118 #From proxy
 ufw insert 1 deny from 125.17.108.32  #From proxy
