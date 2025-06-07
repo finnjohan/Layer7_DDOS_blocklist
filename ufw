@@ -8,6 +8,18 @@ ufw insert 1 deny from 93.123.109.230 #From proxy
 ufw insert 1 deny from 162.243.200.231 #From proxy
 ufw insert 1 deny from 135.225.152.67 #From proxy
 ufw insert 1 deny from 135.225.152.64 #From proxy
+ufw insert 1 deny from 51.68.107.161
+ufw insert 1 deny from 128.199.169.245 
+ufw insert 1 deny from 107.172.252.183
+ufw insert 1 deny from 159.65.132.189
+ufw insert 1 deny from 51.68.107.157
+ufw insert 1 deny from 34.59.88.102
+ufw insert 1 deny from 134.209.110.123
+ufw insert 1 deny from 143.244.132.181
+ufw insert 1 deny from 139.59.228.215
+ufw insert 1 deny from 167.94.146.60
+ufw insert 1 deny from 20.84.145.61
+ufw insert 1 deny from 51.68.236.87
 ufw insert 1 deny from 134.122.72.160
 ufw insert 1 deny from 192.171.82.98
 ufw insert 1 deny from 146.174.191.1
