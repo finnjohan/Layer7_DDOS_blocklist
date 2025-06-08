@@ -1,3 +1,18 @@
+ufw insert 1 deny from 34.30.106.255
+ufw insert 1 deny from 20.65.194.188
+ufw insert 1 deny from 34.30.106.255
+ufw insert 1 deny from 188.166.184.95 
+ufw insert 1 deny from 167.172.72.11 
+ufw insert 1 deny from 167.71.206.248 
+ufw insert 1 deny from 46.105.42.135
+ufw insert 1 deny from 34.10.139.117
+ufw insert 1 deny from 104.223.120.159
+ufw insert 1 deny from 134.122.72.160
+ufw insert 1 deny from 51.68.0.0/16 #Spoof Protection
+ufw insert 1 deny from 167.94.138.0/24 #Censys
+ufw insert 1 deny from 143.244.132.181
+ufw insert 1 deny from 167.71.206.248
+ufw insert 1 deny from 3.137.213.204
 ufw insert 1 deny from 139.59.224.169
 ufw insert 1 deny from 34.59.88.102
 ufw insert 1 deny from 114.217.26.245
