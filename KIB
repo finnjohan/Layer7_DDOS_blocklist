@@ -280,7 +280,7 @@ ufw insert 1 deny from 141.164.94.30
 ufw insert 1 deny from 52.236.35.217
 ufw insert 1 deny from 135.125.2.203
 ufw insert 1 deny from 185.213.245.120
-ufw insert 1 deny from 104.28.253.225
+#ufw insert 1 deny from 104.28.253.225
 ufw insert 1 deny from 128.140.98.220
 ufw insert 1 deny from 45.12.150.82
 ufw insert 1 deny from 52.102.16.165
@@ -326,7 +326,7 @@ ufw insert 1 deny from 156.228.98.133
 ufw insert 1 deny from 8.218.124.46
 ufw insert 1 deny from 191.102.182.81
 ufw insert 1 deny from 200.10.47.222
-ufw insert 1 deny from 104.28.252.179
+#ufw insert 1 deny from 104.28.252.179
 ufw insert 1 deny from 35.195.145.166
 ufw insert 1 deny from 107.175.152.97
 ufw insert 1 deny from 107.181.141.123
