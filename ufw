@@ -1,3 +1,9 @@
+ufw insert 1 deny from 46.105.39.50
+ufw insert 1 deny from 103.87.142.95
+ufw insert 1 deny from 34.34.233.249
+ufw insert 1 deny from 54.255.241.123
+ufw insert 1 deny from 146.190.86.123
+ufw insert 1 deny from 146.70.145.58 #Sweden
 ufw insert 1 deny from 192.145.125.94
 ufw insert 1 deny from 54.255.241.123
 ufw insert 1 deny from 188.166.240.118
