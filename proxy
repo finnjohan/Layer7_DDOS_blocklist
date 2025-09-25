@@ -1,3 +1,6 @@
+ufw insert 1 deny from 52.123.138.200
+ufw insert 1 deny from 52.102.18.53 
+ufw insert 1 deny from 52.102.17.101
 #ufw insert 1 deny from 168.119.194.169 #New on abuse
 #ufw insert 1 deny from 37.27.169.241 #New on abuse
 ufw insert 1 deny from 185.100.167.254  #Fixed line
