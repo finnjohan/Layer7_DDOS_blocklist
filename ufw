@@ -1,3 +1,5 @@
+ufw insert 1 deny from 152.42.238.168
+ufw insert 1 deny from 178.128.55.99
 ufw insert 1 deny from 188.166.179.134
 ufw insert 1 deny from 162.142.125.0/24 #Censys range
 ufw insert 1 deny from 178.128.112.144
