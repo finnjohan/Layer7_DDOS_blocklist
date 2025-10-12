@@ -1,3 +1,4 @@
+ufw insert 1 deny from 185.169.252.189
 ufw insert 1 deny from 34.38.19.235
 ufw insert 1 deny from 138.36.155.73
 ufw insert 1 deny from 128.82.126.10 #Old Dominion University
