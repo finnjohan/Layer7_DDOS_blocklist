@@ -1,3 +1,4 @@
+ufw insert 1 deny from 66.249.72.5
 ufw insert 1 deny from 91.106.193.180 #Sweden Cleura
 ufw insert 1 deny from 52.185.159.30
 ufw insert 1 deny from 157.15.40.90
