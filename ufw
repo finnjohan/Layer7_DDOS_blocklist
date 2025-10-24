@@ -1,3 +1,4 @@
+ufw insert 1 deny from 130.33.67.111
 ufw insert 1 deny from 206.189.90.9
 ufw insert 1 deny from 62.63.238.18 #bahnhof Sweden
 ufw insert 1 deny from 192.241.161.163
