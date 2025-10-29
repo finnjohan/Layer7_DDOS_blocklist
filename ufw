@@ -1,3 +1,8 @@
+ufw insert 1 deny from 164.92.131.177
+ufw insert 1 deny from 159.65.14.135
+ufw insert 1 deny from 35.156.22.86
+ufw insert 1 deny from 124.198.131.83
+ufw insert 1 deny from 128.199.102.95
 ufw insert 1 deny from 64.225.66.184
 ufw insert 1 deny from 167.172.93.151 
 ufw insert 1 deny from 162.142.125.46
