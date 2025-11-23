@@ -1,173 +1,71 @@
-ufw insert 1 deny from 71.6.199.65
-ufw insert 1 deny from 91.232.238.112
-ufw insert 1 deny from 176.65.149.182
-ufw insert 1 deny from 135.237.127.54
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 64.62.197.122
-ufw insert 1 deny from 48.217.87.78
-ufw insert 1 deny from 20.65.194.43
-ufw insert 1 deny from 78.153.140.151
-ufw insert 1 deny from 196.251.87.200
-ufw insert 1 deny from 196.251.73.10
-ufw insert 1 deny from 94.26.88.18
-ufw insert 1 deny from 45.79.207.110
-ufw insert 1 deny from 20.65.216.44
-ufw insert 1 deny from 20.221.71.226
-ufw insert 1 deny from 20.106.197.7
-ufw insert 1 deny from 78.153.140.203
-ufw insert 1 deny from 20.83.40.172
-ufw insert 1 deny from 78.153.140.224
-ufw insert 1 deny from 13.89.125.18
-ufw insert 1 deny from 138.91.107.7
-ufw insert 1 deny from 64.62.197.77
-ufw insert 1 deny from 20.65.194.128
-ufw insert 1 deny from 40.119.24.130
-ufw insert 1 deny from 64.62.197.17
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 20.65.216.44
-ufw insert 1 deny from 20.221.71.226
-ufw insert 1 deny from 45.79.207.110
-ufw insert 1 deny from 91.232.238.112
-ufw insert 1 deny from 135.237.127.54
-ufw insert 1 deny from 176.65.149.182
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 64.62.197.122
-ufw insert 1 deny from 71.6.199.65
-ufw insert 1 deny from 196.251.73.10
-ufw insert 1 deny from 94.26.88.18
-ufw insert 1 deny from 196.251.87.200
-ufw insert 1 deny from 20.65.194.43
-ufw insert 1 deny from 78.153.140.151
-ufw insert 1 deny from 48.217.87.78
-ufw insert 1 deny from 45.79.8.221
-ufw insert 1 deny from 161.35.230.245
-ufw insert 1 deny from 48.217.87.78
-ufw insert 1 deny from 139.59.22.141
-ufw insert 1 deny from 52.165.82.26
-ufw insert 1 deny from 91.232.238.112
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 64.62.197.122
-ufw insert 1 deny from 20.65.194.43
-ufw insert 1 deny from 143.110.167.14
-ufw insert 1 deny from 94.26.88.18
-ufw insert 1 deny from 213.209.157.254
-ufw insert 1 deny from 45.79.207.110
-ufw insert 1 deny from 20.169.81.155
-ufw insert 1 deny from 20.172.67.176
-ufw insert 1 deny from 64.62.197.92
-ufw insert 1 deny from 78.153.140.179
-ufw insert 1 deny from 20.172.67.176
-ufw insert 1 deny from 78.153.140.179
-ufw insert 1 deny from 64.62.197.92
-ufw insert 1 deny from 20.172.67.176
-ufw insert 1 deny from 20.169.81.155
-ufw insert 1 deny from 213.209.157.254
-ufw insert 1 deny from 94.26.88.18
-ufw insert 1 deny from 143.110.167.14
-ufw insert 1 deny from 20.65.194.43
-ufw insert 1 deny from 48.217.87.78
-ufw insert 1 deny from 139.59.22.141
-ufw insert 1 deny from 161.35.230.245
-ufw insert 1 deny from 139.59.22.141
-ufw insert 1 deny from 45.79.8.221
-ufw insert 1 deny from 65.49.1.152
-ufw insert 1 deny from 20.65.193.83
-ufw insert 1 deny from 172.202.118.45
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 78.153.140.123
-ufw insert 1 deny from 74.82.47.2
-ufw insert 1 deny from 170.64.216.229
-ufw insert 1 deny from 20.65.192.207
-ufw insert 1 deny from 20.65.193.168
-ufw insert 1 deny from 146.70.188.196
-ufw insert 1 deny from 135.237.127.54
-ufw insert 1 deny from 188.130.154.205
-ufw insert 1 deny from 213.209.157.254
-ufw insert 1 deny from 78.153.140.151
-ufw insert 1 deny from 20.221.72.24
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 78.153.140.123
-ufw insert 1 deny from 74.82.47.2
-ufw insert 1 deny from 170.64.216.229
-ufw insert 1 deny from 20.65.192.207
-ufw insert 1 deny from 20.65.193.168
-ufw insert 1 deny from 146.70.188.196
-ufw insert 1 deny from 135.237.127.54
-ufw insert 1 deny from 213.209.157.254
-ufw insert 1 deny from 78.153.140.151
-ufw insert 1 deny from 20.221.72.24
-ufw insert 1 deny from 188.130.154.205
-ufw insert 1 deny from 65.49.1.152
-ufw insert 1 deny from 78.153.140.179
-ufw insert 1 deny from 20.172.67.176
-ufw insert 1 deny from 65.49.1.152
-ufw insert 1 deny from 188.130.154.205
-ufw insert 1 deny from 78.153.140.179
-ufw insert 1 deny from 161.35.172.245
-ufw insert 1 deny from 20.172.67.176
-ufw insert 1 deny from 161.35.172.245
-ufw insert 1 deny from 20.221.72.24
-ufw insert 1 deny from 135.237.127.54
-ufw insert 1 deny from 78.153.140.151
-ufw insert 1 deny from 213.209.157.254
-ufw insert 1 deny from 20.65.193.168
-ufw insert 1 deny from 172.202.118.45
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 78.153.140.123
-ufw insert 1 deny from 20.65.192.207
-ufw insert 1 deny from 74.82.47.2
-ufw insert 1 deny from 170.64.216.229
-ufw insert 1 deny from 196.251.117.117
-ufw insert 1 deny from 78.153.140.224
-ufw insert 1 deny from 164.92.215.129
-ufw insert 1 deny from 204.76.203.30
-ufw insert 1 deny from 45.148.10.95
-ufw insert 1 deny from 196.251.73.10
-ufw insert 1 deny from 65.49.1.94
-ufw insert 1 deny from 35.216.241.81
-ufw insert 1 deny from 20.169.104.180
-ufw insert 1 deny from 20.40.218.197
-ufw insert 1 deny from 195.178.110.109
-ufw insert 1 deny from 20.221.68.115
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 78.153.140.203
-ufw insert 1 deny from 195.178.110.157
-ufw insert 1 deny from 20.65.219.131
-ufw insert 1 deny from 20.65.193.83
-ufw insert 1 deny from 146.70.188.196
-ufw insert 1 deny from 196.251.117.117
-ufw insert 1 deny from 78.153.140.224
-ufw insert 1 deny from 195.178.110.157
-ufw insert 1 deny from 204.76.203.30
-ufw insert 1 deny from 45.148.10.95
-ufw insert 1 deny from 20.221.68.115
-ufw insert 1 deny from 78.153.140.203
-ufw insert 1 deny from 35.216.241.81
-ufw insert 1 deny from 20.169.104.180
-ufw insert 1 deny from 20.65.219.131
-ufw insert 1 deny from 65.49.1.94
-ufw insert 1 deny from 195.178.110.109
-ufw insert 1 deny from 20.40.218.197
-ufw insert 1 deny from 164.92.215.129
-ufw insert 1 deny from 196.251.73.10
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 48.214.144.125
-ufw insert 1 deny from 134.199.151.76
-ufw insert 1 deny from 172.202.118.40
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 20.46.226.81
-ufw insert 1 deny from 20.15.163.174
-ufw insert 1 deny from 20.14.90.84
-ufw insert 1 deny from 48.217.87.78
-ufw insert 1 deny from 159.223.50.179
-ufw insert 1 deny from 20.46.226.81
-ufw insert 1 deny from 172.202.118.40
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 20.46.226.81
-ufw insert 1 deny from 213.209.157.162
-ufw insert 1 deny from 20.168.0.218
-ufw insert 1 deny from 20.65.194.183
-ufw insert 1 deny from 206.189.153.123
-ufw insert 1 deny from 204.76.203.30
-ufw insert 1 deny from 176.97.210.9
-ufw insert 1 deny from 20.40.250.17
+139.59.22.141
+20.65.219.131
+35.216.241.81
+71.6.199.65
+20.65.194.183
+188.130.154.205
+206.189.153.123
+78.153.140.123
+74.82.47.2
+94.26.88.18
+164.92.215.129
+20.40.250.17
+20.46.226.81
+64.62.197.122
+91.232.238.112
+196.251.117.117
+78.153.140.203
+143.110.167.14
+196.251.87.200
+64.62.197.17
+65.49.1.94
+13.89.125.18
+138.91.107.7
+78.153.140.224
+20.106.197.7
+20.65.194.128
+20.172.67.176
+20.221.68.115
+135.237.127.54
+159.223.50.179
+134.199.151.76
+45.79.207.110
+213.209.157.162
+64.62.197.92
+20.169.104.180
+213.209.157.254
+52.165.82.26
+176.97.210.9
+196.251.73.10
+20.14.90.84
+170.64.216.229
+176.65.149.182
+195.178.110.157
+20.168.0.218
+20.221.71.226
+172.202.118.45
+20.221.72.24
+78.153.140.179
+20.40.218.197
+204.76.203.30
+78.153.140.151
+161.35.230.245
+20.65.194.43
+161.35.172.245
+45.79.8.221
+20.15.163.174
+45.148.10.95
+20.65.192.207
+20.65.193.168
+20.169.81.155
+146.70.188.196
+20.65.193.83
+172.202.118.40
+48.217.87.78
+40.119.24.130
+64.62.197.77
+20.65.216.44
+65.49.1.152
+20.83.40.172
+195.178.110.109
+48.214.144.125
