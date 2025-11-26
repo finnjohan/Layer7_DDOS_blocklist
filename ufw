@@ -4513,8 +4513,6 @@ ufw insert 1 deny from 45.8.25.9
 ufw insert 1 deny from 45.93.184.169
 ufw insert 1 deny from 45.94.31.193
 ufw insert 1 deny from 46.135.40.150
-#ufw insert 1 deny from 46.246.47.34 #Sweden Glesys, returning
-ufw insert 1 deny from 4703.05.23 
 ufw insert 1 deny from 47.128.110.123
 ufw insert 1 deny from 47.128.111.159
 ufw insert 1 deny from 47.128.116.208
