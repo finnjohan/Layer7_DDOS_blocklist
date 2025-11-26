@@ -404,7 +404,6 @@ ufw insert 1 deny from 18.233.176.29
 ufw insert 1 deny from 107.23.49.116
 ufw insert 1 deny from 152.53.100.133
 ufw insert 1 deny from 195.26.86.7
-ufw insert 1 deny from 162.142.125.0/24 #Censys
 ufw insert 1 deny from 152.42.176.18
 ufw insert 1 deny from 146.190.104.42
 ufw insert 1 deny from 157.230.247.191
@@ -426,7 +425,6 @@ ufw insert 1 deny from 20.78.94.240
 ufw insert 1 deny from 152.42.238.168
 ufw insert 1 deny from 178.128.55.99
 ufw insert 1 deny from 188.166.179.134
-ufw insert 1 deny from 162.142.125.0/24 #Censys range
 ufw insert 1 deny from 178.128.112.144
 ufw insert 1 deny from 61.152.197.56
 ufw insert 1 deny from 213.209.157.203
@@ -1413,9 +1411,6 @@ ufw insert 1 deny from 152.42.220.255
 ufw insert 1 deny from 34.174.87.147
 ufw insert 1 deny from 178.18.254.229
 ufw insert 1 deny from 171.224.181.248
-ufw insert 1 deny from 4.225.221.243 #Sweden microsoft
-ufw insert 1 deny from 194.71.24.12 #Sweden, student Sundsvall
-ufw insert 1 deny from 46.246.47.34 #Sweden, Glesys
 ufw insert 1 deny from 34.174.177.210
 ufw insert 1 deny from 64.227.45.219
 ufw insert 1 deny from 78.153.140.123
@@ -2558,7 +2553,6 @@ ufw insert 1 deny from 103.87.142.95
 ufw insert 1 deny from 34.34.233.249
 ufw insert 1 deny from 54.255.241.123
 ufw insert 1 deny from 146.190.86.123
-ufw insert 1 deny from 146.70.145.58 #Sweden
 ufw insert 1 deny from 192.145.125.94
 ufw insert 1 deny from 54.255.241.123
 ufw insert 1 deny from 188.166.240.118
@@ -2958,8 +2952,6 @@ ufw insert 1 deny from 213.209.143.192
 ufw insert 1 deny from 213.209.143.194
 ufw insert 1 deny from 213.209.143.190
 ufw insert 1 deny from 34.31.53.99
-ufw insert 1 deny from 51.68.0.0/16 #Spoof Protection
-ufw insert 1 deny from 167.94.138.0/24 #Censys
 ufw insert 1 deny from 143.244.132.181
 ufw insert 1 deny from 167.71.206.248
 ufw insert 1 deny from 3.137.213.204
@@ -3181,7 +3173,6 @@ ufw insert 1 deny from 80.82.156.184
 ufw insert 1 deny from 216.73.216.188
 ufw insert 1 deny from 139.59.224.251
 #ufw insert 1 deny from 104.28.219.138
-#ufw insert 1 deny from 104.28.31.63 #OBS CLOUDFLARE/SWEDEN/BELARUS
 ufw insert 1 deny from 34.73.229.60
 ufw insert 1 deny from 188.164.196.6
 ufw insert 1 deny from 34.23.213.44
@@ -3646,7 +3637,6 @@ ufw insert 1 deny from 154.31.114.51
 ufw insert 1 deny from 120.195.30.141
 ufw insert 1 deny from 45.148.10.97
 ufw insert 1 deny from 160.191.51.211
-#ufw insert 1 deny from 185.146.65.10 #Spain, fixed line
 ufw insert 1 deny from 167.94.138.185
 ufw insert 1 deny from 45.148.10.42
 ufw insert 1 deny from 13.239.26.176
@@ -3823,7 +3813,6 @@ ufw insert 1 deny from 119.251.179.189
 ufw insert 1 deny from 119.8.187.111
 ufw insert 1 deny from 120.195.30.141 #http-cve-2021-41773
 ufw insert 1 deny from 120.224.169.28
-ufw insert 1 deny from 121.229.156.0/24 #Sogouspider range
 ufw insert 1 deny from 121.229.156.26
 ufw insert 1 deny from 121.229.156.65
 ufw insert 1 deny from 121.229.156.94
@@ -3992,7 +3981,6 @@ ufw insert 1 deny from 160.79.111.121
 ufw insert 1 deny from 160.79.111.222
 ufw insert 1 deny from 161.97.128.0/21
 ufw insert 1 deny from 161.97.149.199
-ufw insert 1 deny from 162.142.125.0/24 #Censys range
 ufw insert 1 deny from 162.142.125.115
 ufw insert 1 deny from 162.142.125.192 #Censys
 ufw insert 1 deny from 162.142.125.205 #Censys
@@ -4121,7 +4109,6 @@ ufw insert 1 deny from 18.97.9.99
 ufw insert 1 deny from 190.92.212.143
 ufw insert 1 deny from 191.102.152.163
 ufw insert 1 deny from 191.96.67.30
-#ufw insert 1 deny from 192.145.30.92 #Sweden neterra.net
 ufw insert 1 deny from 192.178.6.72
 ufw insert 1 deny from 192.252.208.70
 ufw insert 1 deny from 193.142.147.5
@@ -4232,8 +4219,6 @@ ufw insert 1 deny from 216.10.250.218
 ufw insert 1 deny from 217.113.194.0/24 #Babbar range
 ufw insert 1 deny from 217.113.194.155
 ufw insert 1 deny from 217.113.194.156
-#ufw insert 1 deny from 217.114.93.38 #Sweden
-#ufw insert 1 deny from 217.13.229.166 #Sweden, NAT Belonging to globalconnect.se????
 ufw insert 1 deny from 218.250.231.191
 ufw insert 1 deny from 221.110.152.1
 ufw insert 1 deny from 221.111.209.2
@@ -4876,7 +4861,6 @@ ufw insert 1 deny from 68.66.216.13
 ufw insert 1 deny from 68.71.243.14
 ufw insert 1 deny from 71.238.140.129
 ufw insert 1 deny from 71.6.167.142
-#ufw insert 1 deny from 72.14.201.100 #Sweden probably OK
 ufw insert 1 deny from 72.14.201.113
 ufw insert 1 deny from 72.14.201.168
 ufw insert 1 deny from 72.14.201.175
@@ -4917,16 +4901,13 @@ ufw insert 1 deny from 8.218.91.49
 ufw insert 1 deny from 8.222.166.37
 ufw insert 1 deny from 82.24.200.110
 ufw insert 1 deny from 83.219.250.112 #Sweden obl-com.ru
-#ufw insert 1 deny from 83.241.247.220 #Sweden, NAT?
 ufw insert 1 deny from 87.121.84.132
 ufw insert 1 deny from 88.90.243.142
 ufw insert 1 deny from 89.58.48.103
 ufw insert 1 deny from 91.222.174.85
 ufw insert 1 deny from 93.123.109.101
 ufw insert 1 deny from 93.123.109.81
-#ufw insert 1 deny from 94.254.15.29 #Sweden
 ufw insert 1 deny from 94.74.90.232
-#ufw insert 1 deny from 98.128.240.22 #Sweden Bahnhof Goteborg
 ufw insert 1 deny from 98.158.100.12
 ufw insert 1 deny from 98.64.96.21
 ufw insert 1 deny from 98.82.63.147
