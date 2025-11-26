@@ -228,9 +228,9 @@ ufw insert 1 deny from 51.91.190.39
 ufw insert 1 deny from 52.123.138.200
 ufw insert 1 deny from 52.102.18.53 
 ufw insert 1 deny from 52.102.17.101
-ufw insert 1 deny from 168.119.194.169 #New on abuse
-ufw insert 1 deny from 37.27.169.241 #New on abuse
-ufw insert 1 deny from 185.100.167.254  #Fixed line
+ufw insert 1 deny from 168.119.194.169 
+ufw insert 1 deny from 37.27.169.241 
+ufw insert 1 deny from 185.100.167.254  
 ufw insert 1 deny from 185.117.225.46
 ufw insert 1 deny from 82.165.16.214 
 ufw insert 1 deny from 52.123.145.90
@@ -336,12 +336,11 @@ ufw insert 1 deny from 198.37.118.140
 ufw insert 1 deny from 184.174.28.224
 ufw insert 1 deny from 171.22.248.216
 ufw insert 1 deny from 34.76.34.183
-ufw insert 1 deny from 209.126.84.16 #Many attempts
+ufw insert 1 deny from 209.126.84.16 
 ufw insert 1 deny from 104.239.81.158
 ufw insert 1 deny from 104.239.19.199 
 ufw insert 1 deny from 45.249.59.24 
 ufw insert 1 deny from 104.224.90.7 
-#ufw insert 1 deny from 64.137.14.218 #Sweden
 ufw insert 1 deny from 31.58.9.64 
 ufw insert 1 deny from 64.64.110.76
 ufw insert 1 deny from 104.239.33.98
@@ -372,7 +371,7 @@ ufw insert 1 deny from 35.233.94.99
 ufw insert 1 deny from 34.140.71.81 
 ufw insert 1 deny from 20.39.206.13
 ufw insert 1 deny from 146.148.26.145 
-ufw insert 1 deny from 104.233.210.198 #Returning
+ufw insert 1 deny from 104.233.210.198 
 ufw insert 1 deny from 196.251.72.120 
 ufw insert 1 deny from 140.174.179.129
 ufw insert 1 deny from 34.38.83.65
