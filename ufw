@@ -3931,7 +3931,6 @@ ufw insert 1 deny from 152.53.129.45
 ufw insert 1 deny from 152.53.36.186
 ufw insert 1 deny from 152.53.39.68
 ufw insert 1 deny from 154.16.246.171
-ufw insert 1 deny from 154.54.249.0/24 #Babbar range
 ufw insert 1 deny from 154.54.249.208
 ufw insert 1 deny from 154.81.156.10
 ufw insert 1 deny from 154.83.103.104
@@ -4013,9 +4012,7 @@ ufw insert 1 deny from 167.94.138.207
 ufw insert 1 deny from 167.94.138.43
 ufw insert 1 deny from 167.94.138.45
 ufw insert 1 deny from 167.94.138.60
-ufw insert 1 deny from 167.94.145.0/24 #Censys range
 ufw insert 1 deny from 167.94.145.102
-ufw insert 1 deny from 167.94.146.0/24 #Censys range
 ufw insert 1 deny from 167.94.146.48
 ufw insert 1 deny from 167.94.146.49 #Censys
 ufw insert 1 deny from 167.94.146.51 
@@ -4145,7 +4142,6 @@ ufw insert 1 deny from 196.251.85.74
 ufw insert 1 deny from 196.251.86.64
 ufw insert 1 deny from 196.251.86.86
 ufw insert 1 deny from 196.251.87.86
-ufw insert 1 deny from 199.45.154.0/24 #Censys Hong Kong range
 ufw insert 1 deny from 199.45.155.69
 ufw insert 1 deny from 199.45.155.86
 ufw insert 1 deny from 20.1.164.128
@@ -4213,7 +4209,6 @@ ufw insert 1 deny from 212.47.131.17
 ufw insert 1 deny from 213.174.148.161
 ufw insert 1 deny from 213.175.93.181
 ufw insert 1 deny from 216.10.250.218
-ufw insert 1 deny from 217.113.194.0/24 #Babbar range
 ufw insert 1 deny from 217.113.194.155
 ufw insert 1 deny from 217.113.194.156
 ufw insert 1 deny from 218.250.231.191
@@ -4223,7 +4218,6 @@ ufw insert 1 deny from 221.111.210.2
 ufw insert 1 deny from 221.202.27.194
 ufw insert 1 deny from 222.186.134.245
 ufw insert 1 deny from 222.254.63.45
-ufw insert 1 deny from 223.109.252.0/24 #Sogouspider range
 ufw insert 1 deny from 223.109.255.142
 ufw insert 1 deny from 223.109.255.144
 ufw insert 1 deny from 223.109.255.147
@@ -4376,7 +4370,6 @@ ufw insert 1 deny from 40.116.73.211
 ufw insert 1 deny from 40.116.73.217
 ufw insert 1 deny from 40.116.73.221
 ufw insert 1 deny from 40.124.168.156
-ufw insert 1 deny from 40.77.167.0/24 #MSN range
 ufw insert 1 deny from 40.77.188.136
 ufw insert 1 deny from 40.77.188.180
 ufw insert 1 deny from 40.77.188.69
@@ -4876,7 +4869,6 @@ ufw insert 1 deny from 74.80.208.171
 ufw insert 1 deny from 74.80.208.204
 ufw insert 1 deny from 74.80.208.205
 ufw insert 1 deny from 74.82.47.3
-ufw insert 1 deny from 75.119.143.0/23
 ufw insert 1 deny from 78.153.140.151
 ufw insert 1 deny from 78.153.140.177
 ufw insert 1 deny from 78.153.140.224
