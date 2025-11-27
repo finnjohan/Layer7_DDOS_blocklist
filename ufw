@@ -3712,7 +3712,6 @@ ufw insert 1 deny from 111.119.233.32
 ufw insert 1 deny from 111.119.235.214
 ufw insert 1 deny from 111.119.244.94
 ufw insert 1 deny from 111.225.148.218
-ufw insert 1 deny from 112.86.225.0/24 #Sogouspider range
 ufw insert 1 deny from 113.143.36.150
 ufw insert 1 deny from 114.119.128.102
 ufw insert 1 deny from 114.119.128.58
