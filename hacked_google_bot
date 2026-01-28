@@ -1,0 +1,13 @@
+sudo ufw insert 1 deny from 66.249.66.1
+sudo ufw insert 1 deny from 66.249.66.64
+sudo ufw insert 1 deny from 66.249.66.40
+sudo ufw insert 1 deny from 66.249.66.161
+sudo ufw insert 1 deny from 66.249.66.160 
+sudo ufw insert 1 deny from 66.249.66.195
+sudo ufw insert 1 deny from 66.249.66.65
+sudo ufw insert 1 deny from 66.249.66.3
+sudo ufw insert 1 deny from 66.249.66.41
+sudo ufw insert 1 deny from 66.249.66.2
+sudo ufw insert 1 deny from 66.249.66.66
+sudo ufw insert 1 deny from 66.249.66.162
+sudo ufw insert 1 deny from 66.249.66.196
